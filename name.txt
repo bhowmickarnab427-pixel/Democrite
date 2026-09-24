@@ -1,4 +1,8 @@
 I am arnab bhowmick
 I am from kolaghat.
 I am pursuing from Swami Vivekananda University at Barracpore
+<<<<<<< HEAD
 My favourite food is biriyani.
+=======
+My favourite subject is Mathamatics.
+>>>>>>> db92996e50bde13bc0737553bcd9d1dd40db931d
